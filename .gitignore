@@ -1,0 +1,6 @@
+.DS_Store
+README.md
+package-lock.json
+yarn.lock
+
+/node_modules
